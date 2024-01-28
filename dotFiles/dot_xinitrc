@@ -1,0 +1,11 @@
+feh --bg-scale $HOME/Downloads/wall.png &
+
+picom -b &
+
+st &
+
+sxhkd &
+
+dwmblocks &
+
+exec dwm
